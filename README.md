@@ -1,7 +1,6 @@
 # TECHNICAL SPECIFICATION AND ARCHITECTURE MANUAL
 ## PIR5-E SSTE-Core: Non-Archimedean Quantum-Class Stream Transduction Engine
 
-**Version:** 5.0.0-PROD-QUANTUM-RELEASE  
 **Author:** Juho Artturi Hemminki  
 **Licensing Inquiries:** projectflagcarrier@gmail.com  
 **Classification:** Advanced Microarchitectural Computing Specification
